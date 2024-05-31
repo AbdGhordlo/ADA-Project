@@ -7,12 +7,11 @@ import sklearn
 import imblearn
 
 # Print library versions
-st.write(f"Streamlit version: {st.__version__}")
-st.write(f"Pandas version: {pd.__version__}")
-st.write(f"Numpy version: {np.__version__}")
-st.write(f"Scikit-learn version: {sklearn.__version__}")
-st.write(f"Scikit-learn version: {sklearn.__version__}")
-st.write(f"Imbalanced-learn version: {imblearn.__version__}")
+#st.write(f"Streamlit version: {st.__version__}")
+#st.write(f"Pandas version: {pd.__version__}")
+#st.write(f"Numpy version: {np.__version__}")
+#st.write(f"Scikit-learn version: {sklearn.__version__}")
+#st.write(f"Imbalanced-learn version: {imblearn.__version__}")
 
 from sklearn.preprocessing import LabelEncoder
 
